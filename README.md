@@ -1,11 +1,11 @@
 # leetcode-solutions
 
-<a href="https://leetcode.com/u/iglnierod/">
-  <img src="https://img.shields.io/badge/LeetCode-iglnierod-yellow?style=flat&logo=leetcode&logoColor=black" alt="LeetCode profile" />
-</a>
-<img src="https://img.shields.io/badge/Java-25-orange?style=flat&logo=openjdk&logoColor=white" alt="Java 25" />
-<img src="https://img.shields.io/badge/Maven-Build-blue?style=flat&logo=apachemaven&logoColor=white" alt="Maven" />
-<img src="https://img.shields.io/badge/JUnit-Tests-green?style=flat&logo=junit5&logoColor=white" alt="JUnit" />
+<p align="left">
+  <a href="https://leetcode.com/u/iglnierod/"><img src="https://img.shields.io/badge/LeetCode-iglnierod-yellow?style=flat&logo=leetcode&logoColor=black" alt="LeetCode profile" /></a>
+  <img src="https://img.shields.io/badge/Java-25-orange?style=flat&logo=openjdk&logoColor=white" alt="Java 25" />
+  <img src="https://img.shields.io/badge/Maven-Build-blue?style=flat&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/JUnit-Tests-green?style=flat&logo=junit5&logoColor=white" alt="JUnit" />
+</p>
 
 Repository with my Java solutions for LeetCode problems.
 
