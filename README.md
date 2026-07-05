@@ -23,6 +23,7 @@ Each problem includes:
 | #    | Problem                   | Difficulty | Topic   | Solution                                                                  | Tests                                                                      |
 |------|---------------------------|------------|---------|---------------------------------------------------------------------------|----------------------------------------------------------------------------|
 | 1768 | Merge Strings Alternately | Easy       | Strings | [Solution](src/main/java/dev/iglnierod/leetcode/easy/p1768/Solution.java) | [Tests](src/test/java/dev/iglnierod/leetcode/easy/p1768/SolutionTest.java) |
+| 1071 | Find common divisor       | Easy       | Strings | [Solution](src/main/java/dev/iglnierod/leetcode/easy/p1071/Solution.java) | [Tests](src/test/java/dev/iglnierod/leetcode/easy/p1071/SolutionTest.java) |
 
 ## Running tests
 
